@@ -32,4 +32,8 @@ console.log(visosPajamos) // Output: 16800
 
 //visų metų išlaidas;
 
-var visosIslaidos = 50000 // Visos metu islaidos
+var visosIslaidos = 16800 // Visos metu islaidos
+
+//visų metų balansą;
+
+var menesiuBalansas = visosPajamos - visosIslaidos;
