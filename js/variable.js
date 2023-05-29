@@ -30,3 +30,6 @@ var visosPajamos = menesiuBalansas.reduce(function(acc, balance) {
 
 console.log(visosPajamos) // Output: 16800
 
+//visų metų išlaidas;
+
+var visosIslaidos = 50000 // Visos metu islaidos
