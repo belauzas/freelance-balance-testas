@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "dead-server": "^1.0.9",
     "nodemon": "^2.0.22"
   },
   "name": "freelance-balance-testas",
