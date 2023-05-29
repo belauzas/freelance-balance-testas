@@ -12,3 +12,18 @@ const account = [
     { month: 8, income: 450, expense: 120 },
     { month: 12, expense: 200 }
 ];
+
+const menesiai = [
+    'Sausis',
+    'Vasaris',
+    'Kovas',
+    'Balandis',
+    'Geguze',
+    'Birzelis',
+    'Liepa',
+    'Rugpjutis',
+    'Rugejis',
+    'Spalis',
+    'Lapkritis',
+    'Gruodis',
+];
