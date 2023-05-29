@@ -13,7 +13,7 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-const menesiai = [
+const month = [
     'Sausis',
     'Vasaris',
     'Kovas',
