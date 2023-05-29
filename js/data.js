@@ -24,4 +24,4 @@ const month = ['sausis',
                 'rugsejis', 
                 'spalis', 
                 'lapkritis', 
-                'gruodis']
+                'gruodis'];
