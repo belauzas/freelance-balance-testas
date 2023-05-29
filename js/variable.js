@@ -15,6 +15,18 @@ const months = [
   'Gruodis'
 ];
 
+console.log(months)
+
 //Sugeneruoti "Metų balansa"
 
-var menesiuBalancas = [300, 500, 700, 900, 1100, 1300, 1500, 1700, 1900, 2100, 2300, 2500];
+var menesiuBalansas = [300, 500, 700, 900, 1100, 1300, 1500, 1700, 1900, 2100, 2300, 2500];
+
+
+//visų metų pajamos
+
+var visosPajamos = menesiuBalansas.reduce(function(acc, balance) {
+  return acc + balance;
+}, 0);
+
+console.log(visosPajamos) // Output: 16800
+
